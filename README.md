@@ -1,2 +1,2 @@
-this is the first readme file written through git :coffee
+this is the first readme file written through git ☕
 
